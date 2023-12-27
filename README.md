@@ -51,3 +51,4 @@ VIDEOBRIDGE_MAX_MEMORY=8192m
 # Change the garbage collector (defaults to G1GC)
 VIDEOBRIDGE_GC_TYPE=G1GC
 ```
+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
